@@ -1,2 +1,2 @@
 # my-portfolio
-Static portfolio using only HTML5
+Static portfolio using pure HTML5
